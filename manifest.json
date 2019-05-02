@@ -1,0 +1,6 @@
+  {
+    "name": "Readable",
+    "version": "1.0",
+    "description": "Making long strings of numbers and letters actually readable",
+    "manifest_version": 1
+  }
